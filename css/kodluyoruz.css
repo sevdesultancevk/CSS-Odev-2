@@ -1,0 +1,214 @@
+
+img {
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 25%;
+
+}
+
+.gradient{
+    background: linear-gradient(135deg,rgba(244, 242, 246, 0.679),rgba(255, 255, 255, 0.391))!important;
+}
+
+.box1{
+    background-color: rgb(238, 238, 238);
+    width: 1200.00px;
+    height: 120px;
+    padding: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 10px;
+    font-style: oblique;
+    line-height: 0.8    ;
+        
+  
+}
+
+a.aramatext{
+    float: left;
+    background-color: white;
+    padding: 5px;
+    width: 400px;
+    height: 20px;
+    margin-left:400px;
+    margin-bottom: 2px;
+    font-style: normal;
+    font-size: 14px;
+    border-top: 1px groove rgb(238, 238, 238);
+    border-left: 1px groove rgb(238, 238, 238);
+    border-right: 1px groove rgb(238, 238, 238);
+    border-bottom: 1px groove rgb(238, 238, 238);
+    border-radius: 10px;
+    color: black; 
+    text-decoration: none;
+}
+
+a.aramabuton1{
+    float: left;
+    background-color: white;
+    padding: 5px;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 500px;
+    margin-top: 2px;
+    font-style: normal;
+    font-size: 14px;
+    border-top: 1px groove rgb(238, 238, 238);
+    border-left: 1px groove rgb(238, 238, 238);
+    border-right: 1px groove rgb(238, 238, 238);
+    border-bottom: 1px groove rgb(238, 238, 238);
+    border-radius: 10px;
+    color: black; 
+    text-decoration: none;
+}
+
+a.aramabuton2{
+    float: left;
+    background-color: white;
+    padding: 5px;
+    width: fit-content;
+    height: fit-content;
+    font-style: normal;
+    margin-left: 10px;
+    margin-top: 2px;
+    font-size: 14px;
+    border-top: 1px groove rgb(238, 238, 238);
+    border-left: 1px groove rgb(238, 238, 238);
+    border-right: 1px groove rgb(238, 238, 238);
+    border-bottom: 1px groove rgb(238, 238, 238);
+    border-radius: 10px;
+    color: black;
+    text-decoration: none;
+ 
+}
+
+a.iletişimtext{
+    background-color: white;
+    padding: 2px;
+    width: 200px;
+    height: 20px;
+    margin-left: 1px;
+    font-style: normal;
+    font-size: 12px;
+    border-top: 1px groove rgb(238, 238, 238);
+    border-left: 1px groove rgb(238, 238, 238);
+    border-right: 1px groove rgb(238, 238, 238);
+    border-bottom: 1px groove rgb(238, 238, 238);
+    color: black; 
+    text-decoration: none;
+}
+
+a.subscribe{
+    background-color: white;
+    padding: 2px;
+    width: 80px;
+    height: 20px;
+    margin-left: 1px;
+    font-style: normal;
+    font-size: 12px;
+    border-top: 1px groove rgb(238, 238, 238);
+    border-left: 1px groove rgb(238, 238, 238);
+    border-right: 1px groove rgb(238, 238, 238);
+    border-bottom: 1px groove rgb(238, 238, 238);
+    border-radius: 2px;
+    color: black; 
+    text-decoration: none;
+}
+
+a.aramatext span{
+    background: white ;
+    float: center;
+
+}
+
+a.aramabuton1 span{
+    background: white ;
+    float: center;
+
+}
+a.aramabuton2 span{
+    background: white ;
+    float: center;
+
+}
+
+a.iletişimtext span{
+    background: white ;
+    float: center;
+
+}
+a.subscribe span{
+    background: white ;
+    float: center;
+}
+
+
+
+
+
+.container{
+    width: 1200px;
+    height: 76px;
+    margin: auto;
+    
+
+}
+.bolum1{
+    width: 410px;
+    height: 100%;
+    float: left;
+    font-size: 15px;
+    font-style: normal;
+    line-height: 0.5;
+    text-align: center;
+
+    
+}
+.bolum2{
+    width: 310px;
+    height: 100%;
+    float: left;
+    margin-left: 5px;
+    font-size: 12px;
+    font-style: normal;
+    line-height: 0.5;
+    text-align: center;
+    
+}
+
+.bolum3{
+    width: 470px;
+    height: 100%;
+    float: left;
+    margin-left: 5px;
+    font-size: 12px;
+    font-style: normal;
+    line-height: 0.5;
+    text-align: center; 
+    
+}
+.bg-7EE5DA {
+    background-color: #7EE5DA;
+}
+.bg-70CCC2 { 
+    background-color: #70CCC2;
+}
+.bg-62B3AA { 
+    background-color: #62B3AA;
+
+}
+
+
+.bg-white{
+    background-color: white;
+}
+
+
+
+
+
+    
